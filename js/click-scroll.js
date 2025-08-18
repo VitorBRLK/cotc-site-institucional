@@ -3,7 +3,7 @@
 
 var sectionArray = [1, 2, 3, 4, 5];
 
-// Desativando o comportamento de scroll que destaca os menus
+// Desativando o comportamento de scroll que destaca os menus]
 // $.each(sectionArray, function(index, value){
 //      $(document).scroll(function(){
 //          var offsetSection = $('#' + 'section_' + value).offset().top - 75;
